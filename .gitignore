@@ -115,3 +115,5 @@ build
 .strapi-updater.json
 
 .env.production
+
+package-lock.json
